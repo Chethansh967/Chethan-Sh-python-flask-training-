@@ -1,0 +1,10 @@
+name=input('enter year of birth')
+age=input('enter the age')
+print(name,age)
+a,b=5,2
+print('a+b={]',format(a+b))
+print('a-b={}',format(a-b))
+print('a*b={}',format(a*b))
+print('a/b={}',format(a/b))
+print('a//b={}',format(a//b))
+print('a**b={}',format(a**b))
